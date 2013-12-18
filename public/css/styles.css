@@ -1,0 +1,60 @@
+/*.container{
+
+	z-index:1;
+}*/
+
+
+form { margin-bottom:1em; }
+
+
+
+body {
+    font-family: 'Times', serif;
+    padding: 30;
+    margin: 0;
+    background: #f7f6f2;
+    overflow: hidden;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+         -o-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+}
+
+header{
+
+	font-family: 'Times', serif;
+	font-size:40pt;
+    margin-left: inherit;
+	display:inline block;
+	float:left;
+	color:;
+	}
+
+canvas {
+
+    display:inherit;
+    position: absolute;
+    top:100;
+    width:90%;
+    height: 80%;
+    background: white;
+    border: 8px solid #000 }
+}
+
+
+
+
+#ready{
+
+	z-index:1000001;
+	position:absolute;
+	
+}
+
+.template{
+
+	display:none;
+	
+}
+
